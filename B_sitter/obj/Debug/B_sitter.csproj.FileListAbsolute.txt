@@ -1,0 +1,6 @@
+c:\users\rahad saidul\documents\visual studio 2015\Projects\B_sitter\B_sitter\bin\Debug\B_sitter.exe.config
+c:\users\rahad saidul\documents\visual studio 2015\Projects\B_sitter\B_sitter\bin\Debug\B_sitter.exe
+c:\users\rahad saidul\documents\visual studio 2015\Projects\B_sitter\B_sitter\bin\Debug\B_sitter.pdb
+c:\users\rahad saidul\documents\visual studio 2015\Projects\B_sitter\B_sitter\obj\Debug\B_sitter.csprojResolveAssemblyReference.cache
+c:\users\rahad saidul\documents\visual studio 2015\Projects\B_sitter\B_sitter\obj\Debug\B_sitter.exe
+c:\users\rahad saidul\documents\visual studio 2015\Projects\B_sitter\B_sitter\obj\Debug\B_sitter.pdb
